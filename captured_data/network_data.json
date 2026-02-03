@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "capture_time": "2026-02-03T09:54:38.342624",
+    "total_packets": 0,
+    "total_dns_packets": 0,
+    "total_ip_flows": 0
+  },
+  "ip_data": [],
+  "dns_data": [],
+  "dns_queries": {},
+  "suspicious_domains": {},
+  "ip_flows": {}
+}
